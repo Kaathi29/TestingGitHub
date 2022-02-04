@@ -5,3 +5,4 @@ Flour
 Soy Milk
 Bananas
 Bread
+Cereal
